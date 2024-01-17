@@ -1,0 +1,8 @@
+App\Entity\Product:
+  attributes:
+    sku:
+      groups: ['product']
+    productName:
+      groups: ['product']
+    description:
+      groups: ['product']
